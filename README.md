@@ -1,2 +1,7 @@
-# demo-dolce-herencia
-Demo web para Dolce Herencia — diseñada por eterlab.
+# Dolce Herencia
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
